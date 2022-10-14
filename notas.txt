@@ -1,0 +1,18 @@
+mostrar especialidades como botones
+no usar calendar. mostrar array de dias disponibles, no los días no seleccionables
+. al seleccionar dia mostrar array de botones de turnos disponibles
+
+opcional: algun tipo de acceso rápido con los medicos mas frecuentes
+
+libreria de chart para sprint 4: ChartJS
+
+si guardo turno en varias colecciones, que el servicio q lo modifica o cancela se encargue de modificar todos.
+
+captcha propio. usar un mat dialog o algo por el estilo
+
+accesos rapidos: un componente en el login q reciba array de usuarios, muestre las fotos y al clickearlas emita evneto q me llene el login con user y pass.
+este componente lo podemos reusar para mostrar los medicos
+
+Hacer el readme, incluir screenshots.
+fijarse en octaviovillegas.git
+
